@@ -59,3 +59,9 @@ Synapses from Chandelier 864691135105583693 onto the axon initial segment region
 Synapses from Chandelier 864691135349628119 onto the axon initial segment region of target pyramidal neuron 864691135616427625.
 
 ![Chandelier-target neuron rendering example 2](img/chand_864691135349628119_target_864691135616427625.png "Chandelier-target neuron rendering exmaple 2")
+
+#### Example 3
+
+Synapses from Chandelier 864691135397985569 onto the axon initial segment region of target pyramidal neuron 864691134965433631.
+
+![Chandelier-target neuron rendering example 3](img/chand_864691135397985569_target_864691134965433631.png "Chandelier-target neuron rendering exmaple 3")
