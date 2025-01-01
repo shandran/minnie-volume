@@ -6,6 +6,6 @@ Reconstructions and analyses from the IARPA [MICrONS consortium](https://www.iar
 
 ***
 
-See [notebook](https://github.com/shandran/minnie-volume/tree/main/notebooks) folder for visualizations and python notebooks.
+See [notebooks](https://github.com/shandran/minnie-volume/tree/main/notebooks) folder for visualizations and python notebooks.
 
 ***
