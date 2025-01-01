@@ -5,3 +5,7 @@ Reconstructions and analyses from the IARPA [MICrONS consortium](https://www.iar
 **Citation:** https://www.microns-explorer.org/citation-policy<br>
 
 ***
+
+See [notebook](https://github.com/shandran/minnie-volume/tree/main/notebooks) folder for visualizations and python notebooks.
+
+***
